@@ -1,0 +1,24 @@
+{
+  "name": "necklace-theory",
+  "version": "1.0.0",
+  "description": "Simple example of the necklace splitting theory with a solution",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmiehansson/necklace-theory.git"
+  },
+  "keywords": [
+    "necklace",
+    "algorithm"
+  ],
+  "author": "Jimmie Hansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmiehansson/necklace-theory/issues"
+  },
+  "homepage": "https://github.com/jimmiehansson/necklace-theory#readme"
+}
